@@ -32,7 +32,7 @@ app.get("/",(request,response)=>{
 
         
 
-    res.send(`
+    res.json(`
         <!DOCTYPE html>
         <html lang="en">
         <head>
